@@ -1,5 +1,5 @@
 
- This worker will make a mapping of okta groups to user ids
+ This Cloudflare worker will make a mapping of okta groups to user ids
  
  The worker can be triggered on demand when querying the worker hostname AND according to a cron schedule
  
