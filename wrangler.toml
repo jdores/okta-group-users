@@ -7,7 +7,7 @@ compatibility_flags = ["nodejs_compat"]
 [vars]
 STORE_R2 = true
 R2_FILENAME = "okta_groups.json"
-OKTA_GROUPS = ["engineering","finance"]
+OKTA_GROUPS = ["engineering","finance","marketing","contractors"]
 
 [triggers]
 crons = ["*/5 * * * *"] # at midnight of 1st of January
